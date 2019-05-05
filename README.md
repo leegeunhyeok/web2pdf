@@ -13,7 +13,7 @@ pip install PyQtWebEngine
 app.py [-h] [--out FILENAME] TARGET_URL
 ```
 
-### options
+### Options
 Required
 - `TARGET_URL` : Target webpage url
 
